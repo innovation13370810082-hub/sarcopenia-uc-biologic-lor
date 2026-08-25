@@ -74,29 +74,26 @@ These names do not disclose the corresponding clinical variables. To run a scrip
 
 ## Software requirements
 
-Packages used across the R scripts include:
+All analyses were performed using R version 4.2.2. The R packages used across the analysis scripts include:
 
-```text
-survival
-survminer
-forestploter
-WeightIt
-cobalt
-survey
-tableone
-openxlsx
-ggplot2
-dplyr
-tidyr
-tibble
-patchwork
-corrplot
-boot
-timeROC
-```
+- survival
+- survminer
+- forestploter
+- WeightIt
+- cobalt
+- survey
+- tableone
+- openxlsx
+- ggplot2
+- dplyr
+- tidyr
+- tibble
+- patchwork
+- corrplot
+- boot
+- timeROC
 
-Install the required packages before running the relevant scripts.
-
+Install the required packages before running the relevant scripts. 
 ## Usage
 
 1. Clone or download this repository.
