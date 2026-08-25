@@ -118,7 +118,7 @@ The scripts are largely independent. However, `plot_cindex_dumbbell.R` requires 
 
 ## Data availability and privacy
 
-No identifiable or patient-level clinical data are included in this repository. Access to the underlying study data is subject to institutional, ethical, and privacy restrictions.
+The datasets analyzed in this study are available from the corresponding author upon reasonable request, subject to institutional, ethical, and privacy restrictions.
 
 ## Citation
 
