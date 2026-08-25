@@ -1,4 +1,4 @@
-# Body Composition and Treatment Outcomes
+# Association of Sarcopenia with Loss of Response to Biologic Therapy in Ulcerative Colitis: A CT-Based Body Composition Study
 
 ## Overview
 
