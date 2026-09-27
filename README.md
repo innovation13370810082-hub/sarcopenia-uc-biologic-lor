@@ -1,4 +1,4 @@
-#  Association of Sarcopenia With Subsequent Loss of Response to Biologic Therapy in Ulcerative Colitis: A CT-Based Retrospective Cohort Study
+#  Association of Sarcopenia with Subsequent Loss of Response to Biologic Therapy in Ulcerative Colitis: A CT-Based Retrospective Cohort Study
 
 ## Overview
 
