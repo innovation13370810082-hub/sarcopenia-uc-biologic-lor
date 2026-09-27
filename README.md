@@ -1,4 +1,4 @@
-#  CT-Derived Body Composition and Loss of Response to Biologic Therapy in Ulcerative Colitis: The Role of Sarcopenia
+#  Association of Sarcopenia With Subsequent Loss of Response to Biologic Therapy in Ulcerative Colitis: A CT-Based Retrospective Cohort Study
 
 ## Overview
 
