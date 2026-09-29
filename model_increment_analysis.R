@@ -1984,7 +1984,7 @@ set.seed(2026)
 boot_auc <- boot(
   data = model_data,
   statistic = bootstrap_auc_optimism,
-  R = 1000
+  R = 2000
 )
 
 cat(
